@@ -1,0 +1,11 @@
+name = "rolldorado-bonus-com-de"
+compatibility_date = "2025-01-01"
+pages_build_output_dir = "."
+
+[vars]
+REF_URL = "https://serffigxjssvpeo.help/RC2TZM?sub_id_3=rolldorado-bonus.com.de"
+HMAC_KEY = "19d09f23a12d2748d0b9dc2953b05cfaa53334418ba503df35ea7e6d267c9ff8"
+COOKIE_NAME = "3ti"
+PLAY_PATH = "start-now"
+BUTTON_ID = "p897613c228762ec9561b7ae6173a8cba"
+GATE_SALT = "ae4889c994ae4401"
